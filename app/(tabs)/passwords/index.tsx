@@ -39,6 +39,7 @@ export default function Passwords() {
                         handleDeletePasswords(item)
                     }}/>}
                 />
+            
             </View>
         </SafeAreaView>
 
