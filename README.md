@@ -8,9 +8,11 @@ O projeto tem como intuito a criação de senhas aleatórias, onde ficam salvas 
 - [Deploy](https://github.com/muryllovieira/Gerador-de-Senhas)
 - [Créditos - Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
 
-Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
 
 ## Para Começar
+
+Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 1. Instalar dependências
 
